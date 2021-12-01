@@ -1,1 +1,1 @@
-shell.setPath(shell.path()..":/mcspwncraft/")
+shell.setPath(shell.path()..":/mcspwncraft/") -- Credit to this post http://www.computercraft.info/forums2/index.php?/topic/3999-run-a-program-in-any-directory/
