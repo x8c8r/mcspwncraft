@@ -1,1 +1,1 @@
-shell.setPath(shell.path()..":/mcspwncraft/")
+shell.setPath(shell.path()..":/mcspwncraft/cc/")
